@@ -1,5 +1,5 @@
 # mBuild
-## Disclaimer: This project is not afrilate with makeblock in anyway shape or form, I did it just becuase makeblock does not provide tools/software nessary to test/debug my team's robot
+## Disclaimer: This project is not affiliated with makeblock in anyway shape or form, I did it just becuase makeblock does not provide tools/software nessary to test/debug my team's robot
 
 ## Goal:
 figuring out makeblock's mBuild interface  
